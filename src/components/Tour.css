@@ -1,0 +1,14 @@
+.react-joyride__tooltip p {
+  margin-top: 0;
+  text-align: left;
+}
+
+.react-joyride__tooltip p:last-child {
+  margin-bottom: 0;
+}
+
+.react-joyride__tooltip button {
+  padding-left: 16px !important;
+  padding-right: 16px !important;
+  outline: none;
+}
