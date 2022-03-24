@@ -22,6 +22,7 @@ const Home401 = [
   {
     target: '.course-summaries',
     title: 'Content',
+    placement: 'bottom',
     content: (
       <div>
         <p>
