@@ -39,8 +39,8 @@ const Course401 = [
     content: (
       <div>
         <p>
-          Let's now log into this course using a test account. Click the button
-          and use these credentials on the login page:
+          Let's now log into this course. Click the "Log in" button and use the
+          pre-filled credentials.
         </p>
         <p>
           <strong>Username:</strong> demo@test.com
