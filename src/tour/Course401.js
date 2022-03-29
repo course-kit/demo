@@ -42,11 +42,6 @@ const Course401 = [
           Let's now log into this course. Click the "Log in" button and use the
           pre-filled credentials.
         </p>
-        <p>
-          <strong>Username:</strong> demo@test.com
-          <br />
-          <strong>Password:</strong> demo1234
-        </p>
       </div>
     ),
   },
