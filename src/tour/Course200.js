@@ -23,7 +23,7 @@ const Course200 = [
         </p>
       </div>
     ),
-    title: 'Reumse lesson',
+    title: 'Resume lesson',
   },
 ]
 
