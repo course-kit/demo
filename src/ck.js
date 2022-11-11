@@ -1,7 +1,7 @@
 import { CourseKitClient } from '@coursekit/client'
 const ck = new CourseKitClient({
   schoolId: process.env.REACT_APP_SCHOOL_ID,
-  baseUrl: 'https://api2.coursekit.dev/v1',
+  baseUrl: 'https://api.coursekit.dev/v1',
 })
 
 const fetchUser = async () => {
